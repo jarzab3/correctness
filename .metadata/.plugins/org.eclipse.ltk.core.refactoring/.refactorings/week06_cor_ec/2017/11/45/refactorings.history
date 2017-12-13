@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;week06_cor_ec.triangles.java&apos; to &apos;TriangleClassifier.java&apos;&#x0A;- Original project: &apos;week06_cor_ec&apos;&#x0A;- Original element: &apos;week06_cor_ec.triangles.java&apos;&#x0A;- Renamed element: &apos;week06_cor_ec.TriangleClassifier.java&apos;" description="Rename compilation unit &apos;triangles.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;week06_cor_ec{triangles.java" name="TriangleClassifier.java" references="false" stamp="1510138572345" version="1.0"/>
+</session>
